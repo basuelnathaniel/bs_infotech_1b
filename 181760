@@ -1,0 +1,404 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>PRODUCT-Plethora Custom Crafts</title>
+    <link rel="stylesheet" href="style_n.css">
+  </head>
+  <body>
+    <center>
+      <header>
+        <h1>PLETHORA CUSTOM CRAFTS</h1>
+      </header>
+      <nav class="top">
+        <img class="logo" src="00_n.png">
+        <nav class="page">
+          <a href="home_n.html">HOME</a>
+          <a href="product_n.html">PRODUCT</a>
+          <a href="contact_n.html">CONTACT</a>
+          <a href="about_n.html">ABOUT</a> 
+        </nav>
+        <div class="icons">
+          <a href="https://web.facebook.com" class="icon"><img src="014_n.png"></a>
+          <a href="https://tiktok.com" class="icon"><img src="015_n.png"></a>
+          <a href="https://twitter.com" class="icon"><img src="016_n.png"></a>
+          <a href="https://www.youtube.com" class="icon"><img src="017_n.png"></a>
+        </div>
+      </nav><br>
+
+      <div id="pens" class="hidden-content"><br>
+        <h2>CUSTOM PENS</h2>
+        <div class="container2">
+          <h3>Order Now!</h3>
+          <a href="#orderform"><img src="01_n.png"></a><br><br>
+          <div class="container3"><br>
+            <p>Engraved or printed pens with the student's name or a motivational quote.</p><br>
+          </div><br>
+          <div class="container4">
+            <a href="#orderform">PLACE ORDER</a>
+          </div><br>
+        </div><br><br>
+      </div>
+      
+      <div id="pencilcases" class="hidden-content"><br>
+        <h2>CUSTOMIZED PENCIL CASES</h2>
+        <div class="container2">
+          <h3>Order Now!</h3>
+          <a href="#orderform"><img src="02_n.png"></a><br><br>
+          <div class="container3"><br>
+            <p>Personalized pencil cases with the student's name or a unique design.</p><br>
+          </div><br>
+          <div class="container4">
+            <a href="#orderform">PLACE ORDER</a>
+          </div><br>
+        </div><br><br>
+      </div>
+      
+      <div id="notebooks" class="hidden-content"><br>
+        <h2>CUSTOMIZED NOTEBOOKS</h2>
+        <div class="container2">
+          <h3>Order Now!</h3>
+          <a href="#orderform"><img src="03_n.png"></a><br><br>
+          <div class="container3"><br>
+            <p>Personalized notebooks with the student's name or a custom design on the cover.</p><br>
+          </div><br>
+          <div class="container4">
+            <a href="#orderform">PLACE ORDER</a>
+          </div><br>
+        </div><br><br>
+      </div>
+      
+      <div id="planners" class="hidden-content"><br>
+        <h2>CUSTOMIZED PLANNERS</h2>
+        <div class="container2">
+          <h3>Order Now!</h3>
+          <a href="#orderform"><img src="04_n.png"></a><br><br>
+          <div class="container3"><br>
+            <p>Personalized planners or organizers with the student's name, custom sections, or inspirational quotes.</p><br>
+          </div><br>
+          <div class="container4">
+            <a href="#orderform">PLACE ORDER</a>
+          </div><br>
+        </div><br><br>
+      </div>
+      
+      <div id="bookmarks" class="hidden-content"><br>
+        <h2>CUSTOMIZED BOOKMARKS</h2>
+        <div class="container2">
+          <h3>Order Now!</h3>
+          <a href="#orderform"><img src="05_n.png"></a><br><br>
+          <div class="container3"><br>
+            <p>Personalized bookmarks with the student's name or a favorite quote.</p><br>
+          </div><br>
+          <div class="container4">
+            <a href="#orderform">PLACE ORDER</a>
+          </div><br>
+        </div><br><br>
+      </div>
+      
+      <div id="stickynotes" class="hidden-content"><br>
+        <h2>CUSTOMIZED STICKY NOTES</h2>
+        <div class="container2">
+          <h3>Order Now!</h3>
+          <a href="#orderform"><img src="06_n.png"></a><br><br>
+          <div class="container3"><br>
+            <p>Custom sticky notes with the student's name or a personalized design.</p><br>
+          </div><br>
+          <div class="container4">
+            <a href="#orderform">PLACE ORDER</a>
+          </div><br>
+        </div><br><br>
+      </div>
+      
+      <div id="stickynoteholders" class="hidden-content"><br>
+        <h2>CUSTOMIZED STICKY NOTES HOLDERS</h2>
+        <div class="container2">
+          <h3>Order Now!</h3>
+          <a href="#orderform"><img src="07_n.png"></a><br><br>
+          <div class="container3"><br>
+            <p>Personalized sticky note holders with the student's name or a unique design.</p><br>
+          </div><br>
+          <div class="container4">
+            <a href="#orderform">PLACE ORDER</a>
+          </div><br>
+        </div><br><br>
+      </div>
+      
+      <div id="deskorganizers" class="hidden-content"><br>
+        <h2>CUSTOMIZED DESK ORGANIZERS</h2>
+        <div class="container2">
+          <h3>Order Now!</h3>
+          <a href="#orderform"><img src="08_n.png"></a><br><br>
+          <div class="container3"><br>
+            <p>Personalized desk organizers with compartments for pens, paperclips, and other supplies.</p><br>
+          </div><br>
+          <div class="container4">
+            <a href="#orderform">PLACE ORDER</a>
+          </div><br>
+        </div><br><br>
+      </div>
+      
+      <div id="binders" class="hidden-content"><br>
+        <h2>CUSTOMIZED BINDERS</h2>
+        <div class="container2">
+          <h3>Order Now!</h3>
+          <a href="#orderform"><img src="09_n.png"></a><br><br>
+          <div class="container3"><br>
+            <p>Custom binders with the student's name or a custom design.</p><br>
+          </div><br>
+          <div class="container4">
+            <a href="#orderform">PLACE ORDER</a>
+          </div><br>
+        </div><br><br>
+      </div>
+      
+      <div id="folders" class="hidden-content"><br>
+        <h2>CUSTOMIZED FOLDERS</h2>
+        <div class="container2">
+          <h3>Order Now!</h3>
+          <a href="#orderform"><img src="010_n.png"></a><br><br>
+          <div class="container3"><br>
+            <p>Custom folders with unique designs or the student's name.</p><br>
+          </div><br>
+          <div class="container4">
+            <a href="#orderform">PLACE ORDER</a>
+          </div><br>
+        </div><br><br>
+      </div>
+      
+      <div id="flashdrives" class="hidden-content"><br>
+        <h2>CUSTOMIZED FLASH DRIVES</h2>
+        <div class="container2">
+          <h3>Order Now!</h3>
+          <a href="#orderform"><img src="011_n.png"></a><br><br>
+          <div class="container3"><br>
+            <p>Personalized flash drives with the student's name or a custom design.</p><br>
+          </div><br>
+          <div class="container4">
+            <a href="#orderform">PLACE ORDER</a>
+          </div><br>
+        </div><br><br>
+      </div>
+      
+      <div id="laptopsleeves" class="hidden-content"><br>
+        <h2>CUSTOMIZED LAPTOP'S SLEEVE OR SKINS</h2>
+        <div class="container2">
+          <h3>Order Now!</h3>
+          <a href="#orderform"><img src="012_n.png"></a><br><br>
+          <div class="container3"><br>
+            <p>Personalized laptop sleeves or skins with a custom design or the student's name.</p><br>
+          </div><br>
+          <div class="container4">
+            <a href="#orderform">PLACE ORDER</a>
+          </div><br>
+        </div><br><br>
+      </div>
+      
+      <div id="waterbottles" class="hidden-content"><br>
+        <h2>CUSTOMIZED WATER BOTTLES</h2>
+        <div class="container2">
+          <h3>Order Now!</h3>
+          <a href="#orderform"><img src="013_n.png"></a><br><br>
+          <div class="container3"><br>
+            <p>Personalized water bottles with the student's name or a custom design.</p><br>
+          </div><br>
+          <div class="container4">
+            <a href="#orderform">PLACE ORDER</a>
+          </div><br>
+        </div><br><br>
+      </div>
+      
+      <div id="orderform" class="hidden-content"><br>
+        <h2>ORDER FORM</h2>
+        <div class="container2">
+          <h3>FILL IN THE DETAILS</h3>
+          <div class="container3"><br>
+          <p>Item: [Enter the name of the item]</p>
+          <p>Personalization options:</p>
+          <ul>
+            <li>Name/Text: [Enter the name or text to be personalized]</li>
+            <li>Font Style: [Specify the preferred font style or provide any specific instructions]</li>
+            <li>Placement: [Specify where the personalization should be placed on the item]</li>
+          </ul>
+          <p>Design preferences:</p>
+          <ul>
+            <li>Colors: [Specify any preferred colors or color schemes]</li>
+            <li>Patterns/Background: [Specify any preferred patterns or background designs]</li>
+            <li>Graphics/Icons: [Specify any preferred graphics or icons to be included]</li>
+          </ul>
+          <p>Size options:</p>
+          <ul>
+            <li>Size: [Specify the desired size or dimensions of the item]</li>
+          </ul>
+          <p>Material options:</p>
+          <ul>
+            <li>Material: [Specify any preferred material for the item]</li>
+          </ul>
+          <p>Additional details or specifications: [Enter any additional details or specifications you have in mind, such as specific images or quotes]</p>
+          <p>Quantity: [Enter the desired quantity of the item]</p>
+          <p>Packaging options:</p>
+          <ul>
+            <li>Packaging: [Specify any preferred packaging options, such as gift boxes or custom wrapping]</li>
+          </ul>
+          <p>Delivery preferences:</p>
+          <ul>
+            <li>Shipping method: [Specify the preferred shipping method]</li>
+            <li>Delivery address: [Enter the desired delivery address]</li>
+          </ul>
+          <p>Deadline: [Specify the desired deadline for receiving the customized item]</p>
+          <p>Budget: [Specify the budget range for the customization]</p><br>
+        </div><br>
+        </div>
+        <div class="container2">
+          <h3>ATTENTION</h3>
+          <div class="container3"><br>
+          <p>To ensure a smooth process for your order, please fill in the form and send it to our Gmail account. We'll review it and send you a confirmation email once we receive it. Thank you for your patience and cooperation!</p><br>
+            </div><br>
+            <div class="container3"><br>
+            <p>The level of customization will depend entirely on your preferences. We are here to personalize and tailor every aspect according to your individual specifications. Your satisfaction is our top priority, and we are committed to crafting a product that truly reflects your unique style.</p><br>
+            </div><br>
+            <div class="container3"><br>
+            <p>The price for each items will depends upon the level of customization done in the product</p><br>
+            </div><br>
+            <div class="container4">
+              <center>
+                <a href="https://mail.google.com/mail/?view=cm&to=basuelnathaniel@gmail.com">@PlethoraCustomCrafts</a>
+              </center>
+            </div><br>
+        </div><br><br>
+      </div>
+      
+      <div class="container1"><br>
+        <h2>PRODUCTS</h2>
+        <div class="container2">
+          <h3>Here are the list of Customized Goodies we offer:</h3>
+          <table>
+            <tr>
+              <th colspan="3">CUSTOMIZABLE GOODIES</th>
+            </tr>
+            <tr>
+              <td>
+                <p>Custom Pens</p>
+              </td>
+              <td>Engraved or printed pens with the student's name or a motivational quote.</td>
+              <td>
+                <a href="#pens">Click here</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p>Customized Pencil Cases</p>
+              </td>
+              <td>Personalized pencil cases with the student's name or a unique design.</td>
+              <td>
+                <a href="#pencilcases">Click here</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p>Customized Notebooks</p>
+              </td>
+              <td>Personalized notebooks with the student's name or a custom design on the cover.</td>
+              <td>
+                <a href="#notebooks">Click here</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p>Customized Planners</p>
+              </td>
+              <td>Personalized planners or organizers with the student's name, custom sections, or inspirational quotes.</td>
+              <td>
+                <a href="#planners">Click here</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p>Customized Bookmarks</p>
+              </td>
+              <td>Personalized bookmarks with the student's name or a favorite quote.</td>
+              <td>
+                <a href="#bookmarks">Click here</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p>Customized Sticky Notes</p>
+              </td>
+              <td>Custom sticky notes with the student's name or a personalized design.</td>
+              <td>
+                <a href="#stickynotes">Click here</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p>Customized Sticky Note Holders</p>
+              </td>
+              <td>Personalized sticky note holders with the student's name or a unique design.</td>
+              <td>
+                <a href="#stickynoteholders">Click here</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p>Customized Desk Organizers</p>
+              </td>
+              <td>Personalized desk organizers with compartments for pens, paperclips, and other supplies.</td>
+              <td>
+                <a href="#deskorganizers">Click here</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p>Customized Binders</p>
+              </td>
+              <td>Custom binders with the student's name or a custom design.</td>
+              <td>
+                <a href="#binders">Click here</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p>Customized Folders</p>
+              </td>
+              <td>Custom folders with unique designs or the student's name.</td>
+              <td>
+                <a href="#folders">Click here</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p>Customized Flash Drives</p>
+              </td>
+              <td>Personalized flash drives with the student's name or a custom design.</td>
+              <td>
+                <a href="#flashdrives">Click here</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p>Customized Laptop Sleeves or Skins</p>
+              </td>
+              <td>Personalized laptop sleeves or skins with a custom design or the student's name.</td>
+              <td>
+                <a href="#laptopsleeves">Click here</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p>Customized Water Bottles</p>
+              </td>
+              <td>Personalized water bottles with the student's name or a custom design.</td>
+              <td>
+                <a href="#waterbottles">Click here</a>
+              </td>
+            </tr>
+          </table><br>
+        </div><br><br>
+      </div><br>
+      
+      <footer>
+        <p>© 2024 Plethora Custom Crafts</p>
+      </footer>
+    </center>
+  </body>
+</html>

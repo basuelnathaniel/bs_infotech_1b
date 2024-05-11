@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>CONTACT-Plethora Custom Crafts</title>
+    <link rel="stylesheet" href="style_n.css">
+  </head>
+  <body>
+    <center>
+      <header>
+        <h1>PLETHORA CUSTOM CRAFTS</h1>
+      </header>
+      <nav class="top">
+        <img class="logo" src="00_n.png">
+        <nav class="page">
+          <a href="home_n.html">HOME</a>
+          <a href="product_n.html">PRODUCT</a>
+          <a href="contact_n.html">CONTACT</a>
+          <a href="about_n.html">ABOUT</a> 
+        </nav>
+        <div class="icons">
+          <a href="https://web.facebook.com" class="icon"><img src="014_n.png"></a>
+          <a href="https://tiktok.com" class="icon"><img src="015_n.png"></a>
+          <a href="https://twitter.com" class="icon"><img src="016_n.png"></a>
+          <a href="https://www.youtube.com" class="icon"><img src="017_n.png"></a>
+        </div>
+      </nav><br>
+
+      <div class="container1"><br>
+        <h2>CONTACT</h2>
+        <div class="container2">
+          <h3>Connect With Us</h3>
+          <div class="container3"><br>
+            <p>Come and visit us in pursuing the power of collaboration that will surely elevate your experience with Arts and creativity here in : Palanginan, Iba, Zambales. We're all ears when it comes to hearing from our valued customers, If you have any questions, feedback, or inquiries, we're here to help! For a quick response, give us a call and or connect with us through our email or message us with our mobile number. Our team is ready to assist you and provide the information you need. Lets work together! Just messege us the details and tell us what you need, then will sure to get back to you soon as possible </p><br>
+          </div><br>
+          
+          <div class="container4">
+            <a href="https://mail.google.com/mail/?view=cm&to=basuelnathaniel@gmail.com">@PlethoraCustomCrafts</a>
+          </div><br>
+          <div class="container4">
+            <a href="tel:+639159339260">+639159339260</a>
+          </div><br>
+        </div><br><br>
+      </div><br>
+      
+      <footer>
+        <p>© 2024 Plethora Custom Crafts</p>
+      </footer>
+    </center>
+  </body>
+</html>

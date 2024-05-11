@@ -1,0 +1,223 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>HOME-Plethora Custom Crafts</title>
+    <link rel="stylesheet" href="style_n.css">
+  </head>
+  <body>
+    <center>
+      <header>
+        <h1>PLETHORA CUSTOM CRAFTS</h1>
+      </header>
+      <nav class="top">
+        <img class="logo" src="00_n.png">
+        <nav class="page">
+          <a href="home_n.html">HOME</a>
+          <a href="product_n.html">PRODUCT</a>
+          <a href="contact_n.html">CONTACT</a>
+          <a href="about_n.html">ABOUT</a> 
+        </nav>
+        <div class="icons">
+          <a href="https://web.facebook.com" class="icon"><img src="014_n.png"></a>
+          <a href="https://tiktok.com" class="icon"><img src="015_n.png"></a>
+          <a href="https://twitter.com" class="icon"><img src="016_n.png"></a>
+          <a href="https://www.youtube.com" class="icon"><img src="017_n.png"></a>
+        </div>
+      </nav><br>
+
+      <div class="container1"><br>
+        <h2>Welcome Esteemed Guest</h2>
+        
+        <div class="container2"><br>
+          <img src="000_n.png"><br><br>
+        </div>
+      
+        <div class="outer-container">
+          <div class="inner-container">
+              <div class="container2">
+                <h3>Order Now!</h3>
+                <img src="01_n.png"><br>
+              </div><br>
+          </div>
+        
+          <div class="inner-container">
+              <div class="container2">
+                <h3>Order Now!</h3>
+                <img src="02_n.png"><br>
+              </div><br>
+          </div>
+          
+          <div class="inner-container">
+              <div class="container2">
+                <h3>Order Now!</h3>
+                <img src="03_n.png"><br>
+              </div><br>
+          </div>
+          
+          <div class="inner-container">
+              <div class="container2">
+                <h3>Order Now!</h3>
+                <img src="04_n.png"><br>
+              </div><br>
+          </div>
+          
+          <div class="inner-container">
+              <div class="container2">
+                <h3>Order Now!</h3>
+                <img src="05_n.png"><br>
+              </div><br>
+          </div>
+          
+          <div class="inner-container">
+              <div class="container2">
+                <h3>Order Now!</h3>
+                <img src="06_n.png"><br>
+              </div><br>
+          </div>
+          
+          <div class="inner-container">
+              <div class="container2">
+                <h3>Order Now!</h3>
+                <img src="07_n.png"><br>
+              </div><br>
+          </div>
+          
+          <div class="inner-container">
+              <div class="container2">
+                <h3>Order Now!</h3>
+                <img src="08_n.png"><br>
+              </div><br>
+          </div>
+          
+          <div class="inner-container">
+              <div class="container2">
+                <h3>Order Now!</h3>
+                <img src="09_n.png"><br>
+              </div><br>
+          </div>
+          
+          <div class="inner-container">
+              <div class="container2">
+                <h3>Order Now!</h3>
+                <img src="010_n.png"><br>
+              </div><br>
+          </div>
+          
+          <div class="inner-container">
+              <div class="container2">
+                <h3>Order Now!</h3>
+                <img src="011_n.png"><br>
+              </div><br>
+          </div>
+          
+          <div class="inner-container">
+              <div class="container2">
+                <h3>Order Now!</h3>
+                <img src="012_n.png"><br>
+              </div><br>
+          </div>
+          
+          <div class="inner-container">
+              <div class="container2">
+                <h3>Order Now!</h3>
+                <img src="013_n.png"><br>
+              </div><br>
+          </div>
+        </div>
+        
+        <div class="container2">
+          <h3>Welcome to our corner of creativity</h3>
+          <div class="container3"><br>
+            <p>Looking for a customize Goodies? something that truly special and unique? ? Well, you're in luck because we specialize in customized creations! From unique stationary Cutie to one-of-a-kind treasures, we've got just what you need to make a statement. Let us work together to bring your vision to life. Get ready to elevate your style with our personalized goodies cutie that are as special as you are. Welcome to our world of customization, where your dreams become reality!</p><br>
+          </div><br>
+          <div class="container3"><br>
+            <p>Step right in and prepare to be amazed! We're all about making your wildest ideas come to life with our customized goodies</p><br>
+          </div><br>
+        </div>
+  
+        <div class="container2">
+          <h3>Looking for something New?</h3>
+          <table>
+            <tr>
+              <th colspan="3">CUSTOMIZABLE GOODIES</th>
+            </tr>
+            <tr>
+              <th>Costumize Product</th>
+              <th>Target Audience/Occasions</th>
+              <th>Customization</th>
+            </tr>
+            <tr>
+              <td><p>Custom Pens</p></td>
+              <td>Corporate gifts, promotional events</td>
+              <td>Engraving, Printing</td>
+            </tr>
+            <tr>
+              <td><p>Customized Pencil Cases</p></td>
+              <td>School supplies, student giveaways</td>
+              <td>Personalization</td>
+            </tr>
+            <tr>
+              <td><p>Customized Notebooks</p></td>
+              <td>Employee appreciation, conference swag</td>
+              <td>Custom Covers</td>
+            </tr>
+            <tr>
+              <td><p>Customized Planners</p></td>
+              <td>New year gifts, productivity enthusiasts</td>
+              <td>Personalized Sections</td>
+            </tr>
+            <tr>
+              <td><p>Customized Bookmarks</p></td>
+              <td>Book clubs, literary events</td>
+              <td>Custom Text, Designs</td>
+            </tr>
+            <tr>
+              <td><p>Customized Sticky Notes</p></td>
+              <td>Office use, reminder tools</td>
+              <td>Personalized Designs</td>
+            </tr>
+            <tr>
+              <td><p>Customized Sticky Note Holders</p></td>
+              <td>Home office, desk organization</td>
+              <td>Custom Styles</td>
+            </tr>
+            <tr>
+              <td><p>Customized Desk Organizers</p></td>
+              <td>Corporate gifts, home office essentials</td>
+              <td>Personalized Compartments</td>
+            </tr>
+            <tr>
+              <td><p>Customized Binders</p></td>
+              <td>Office supplies, professional presentations</td>
+              <td>Unique Designs</td>
+            </tr>
+            <tr>
+              <td><p>Customized Folders</p></td>
+              <td>Business presentations, conferences</td>
+              <td>Personalized Designs</td>
+            </tr>
+            <tr>
+              <td><p>Customized Flash Drives</p></td>
+              <td>Student giveaways, tech events</td>
+              <td>Custom Text, Designs</td>
+            </tr>
+            <tr>
+              <td><p>Customized Laptop Sleeves or Skins</p></td>
+              <td>Personal laptops, tech enthusiasts</td>
+              <td>Personalized Prints</td>
+            </tr>
+            <tr>
+              <td><p>Customized Water Bottles</p></td>
+              <td>Fitness clubs, outdoor events</td>
+              <td>Custom Designs</td>
+            </tr>
+          </table><br>
+        </div><br><br>
+      </div><br>
+      
+      <footer>
+        <p>© 2024 Plethora Custom Crafts</p>
+      </footer>
+    </center>
+  </body>
+</html>

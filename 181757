@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>ABOUT-Plethora Custom Crafts</title>
+    <link rel="stylesheet" href="style_n.css">
+  </head>
+  <body>
+    <center>
+      <header>
+        <h1>PLETHORA CUSTOM CRAFTS</h1>
+      </header>
+      <nav class="top">
+        <img class="logo" src="00_n.png">
+        <nav class="page">
+          <a href="home_n.html">HOME</a>
+          <a href="product_n.html">PRODUCT</a>
+          <a href="contact_n.html">CONTACT</a>
+          <a href="about_n.html">ABOUT</a> 
+        </nav>
+        <div class="icons">
+          <a href="https://web.facebook.com" class="icon"><img src="014_n.png"></a>
+          <a href="https://tiktok.com" class="icon"><img src="015_n.png"></a>
+          <a href="https://twitter.com" class="icon"><img src="016_n.png"></a>
+          <a href="https://www.youtube.com" class="icon"><img src="017_n.png"></a>
+        </div>
+      </nav><br>
+
+      <div class="container1"><br>
+        <h2>ABOUT</h2>
+        <div class="container2"><br>
+          <img src="0000_n.png"><br><br>
+        </div>
+        <div class="container2">
+          <h3>Welcome to Plethora Custom Crafts: Customization Corner</h3>
+          <div class="container3"><br>
+            <p>At the Plethora Custom Crafts: Customization Corner, we specialize in creating custom-made items that reflect your unique style. From customized stationery to one-of-a-kind gifts, we bring your ideas to life. With attention to detail and a commitment to quality, each creation is crafted to perfection. Join us on a journey of self-expression and discover the joy of personalized products.</p><br>
+          </div><br>
+          <div class="container3"><br>
+            <p>Our Business Motto is Produce an extraordinary,artistic, and unique peice of art tailored to satisfy the need of every being in the world who seeks to feel and experience the creative side of the world. It is obligations to offer a high-quality products and services to our beloved costumers.</p><br>
+          </div><br>
+          <div class="container3"><br>
+            <p>Come and visit us in pursuing the power of collaboration that will surely elevate your experience with Arts and creativity here in :</p><br>
+          </div><br>
+          <div class="container4">
+            <a href="https://maps.app.goo.gl/rKNBZBvPUvE6TpSH8">Iba, Zambales</a>
+          </div><br>
+          </div><br><br>
+        </div>
+        
+      <p class="owner">Basuel Nathaniel's Project</p>
+      
+      <footer>
+        <p>© 2024 Plethora Custom Crafts</p>
+      </footer>
+    </center>
+  </body>
+</html>
