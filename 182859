@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>ABOUT-Plethora Custom Crafts</title>
+    <link rel="stylesheet" href="style_n.css">
+  </head>
+  <body>
+    <center>
+      <br><br><br>
+
+      <div class="container1"><br>
+        <h2>Welcome</h2>
+        <div class="container2">
+          <h3>Looking for something fun?</h3>
+          <div class="container3"><br>
+            <p class="ofen">Come and visit us in pursuing the power of collaboration and discover the magic of custom crafted stationaries that will surely elevate your experience with Arts and creativity</p>
+            <a href="home_n.html">
+              <div class="container1">
+                <h4>Plethora Custom Crafts</h4>
+              </div></a><br>
+          </div><br>
+        </div><br><br>
+      </div><br>
+
+    </center>
+  </body>
+</html>
